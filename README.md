@@ -404,27 +404,5 @@ Score Final = (40% × Compatibilidade de Skills) +
    - O algoritmo de matchmaking é o ponto chave
    - Mostra a complexidade do back-end
 
----
 
-## 👨‍💻 Autor
 
-**[Seu Nome]**  
-Projeto desenvolvido para a disciplina de Programação Web Back-End  
-[Sua Instituição] - [Ano]
-
----
-
-## 📄 Licença
-
-Este projeto é de código aberto para fins educacionais.
-
----
-
-## 🆘 Suporte
-
-Para dúvidas ou problemas:
-1. Verifique se todas as dependências foram instaladas
-2. Confirme que a porta 3000 está livre
-3. Teste os endpoints na ordem sugerida
-
-**Contato:** [seu-email@exemplo.com]
